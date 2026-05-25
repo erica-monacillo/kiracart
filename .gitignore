@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.pnp*
+.pnp.js
+
+# Build output
+dist/
+build/
+out/
+.vite/
+*.log
+
+# Electron build artifacts
+dist/win-unpacked/
+dist/*.exe
+*.exe
+
+# Cache
+.npm/
+.cache/
+coverage/
